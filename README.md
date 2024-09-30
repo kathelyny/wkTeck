@@ -1,11 +1,6 @@
-# Projeto Ponto de Pedidos com Delphi - WK tecnology
-#### OBS: Não foi possivel implementar algumas features dentro do tempo estipulado.
+# TESTE TÉCNICO
 
 ### Recursos utilizados
-- RAD Studio 10 Seatle
+Embarcadero RAD Studio 10.3 Architect 
 
-### Tela Principal
-![](/imagens/principal.png)
 
-### Tela Principal - Realizando pedido
-![](/imagens/pedido.png)
